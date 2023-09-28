@@ -1,9 +1,9 @@
 # compose_paging_api_3
 
 This is an Android project for a demo using Jitpack Compose with Paging 3 API and RoomDB caching for offline mode.
-![Screenshot_1695879066](https://github.com/IbrahemSalah/compose_paging_api_3/assets/32066147/32df5f72-311e-4c82-8c19-d62dd5cddd49)
-![Screenshot_1695879071](https://github.com/IbrahemSalah/compose_paging_api_3/assets/32066147/44f306d7-17a0-4713-bf58-82c95cea4cd0)
-![Screenshot_1695879075](https://github.com/IbrahemSalah/compose_paging_api_3/assets/32066147/9a854d65-bebc-475e-a701-ed2c62ba4732)
+![](https://github.com/IbrahemSalah/compose_paging_api_3/assets/32066147/32df5f72-311e-4c82-8c19-d62dd5cddd49 | width=100)
+![](https://github.com/IbrahemSalah/compose_paging_api_3/assets/32066147/44f306d7-17a0-4713-bf58-82c95cea4cd0 | width=100)
+![](https://github.com/IbrahemSalah/compose_paging_api_3/assets/32066147/9a854d65-bebc-475e-a701-ed2c62ba4732 | width=100)
 
 Built using MVVM and Kotlin.
 
