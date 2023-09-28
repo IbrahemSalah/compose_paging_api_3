@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ComposePaging3Caching</string>
+    <string name="title"><![CDATA[Compose & Paging 3 API]]></string>
+</resources>
